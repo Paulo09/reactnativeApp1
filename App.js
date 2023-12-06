@@ -1,14 +1,29 @@
-import { Text } from "react-native";
+import { Text, View, StyleSheet } from "react-native";
 
 export default function App() {
   return (
     <>
-    <view>
+    <View style={{display:'flex'}}>
       <Text>Isso é uma View </Text>
-    </view>
-     <text>Olá, Texto!!!!</text>
-     <text>Olá, Texto!!!!</text>
-     <text>Olá, Texto!!!!</text>
+      <Text>Olá, Texto!!!!</Text>
+      <Text>Olá, Texto!!!!</Text>
+      <Text>Olá, Texto!!!!</Text>
+
+      <View style={styles.caixa}>
+
+      </View>
+      
+    </View>  
     </>
   );
 }
+
+
+const styles = StyleSheet.create({
+  caixa: {
+    widht:'100%',
+    height: '100px',
+    backgroundColor: 'red' 
+  }
+    
+})
