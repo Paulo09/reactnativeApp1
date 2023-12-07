@@ -32,6 +32,12 @@
         "projectId": "46139f51-2e66-4397-8ca5-060cad7a309b"
       }
     },
-    "owner": "paulocastro"
+    "owner": "paulocastro",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/46139f51-2e66-4397-8ca5-060cad7a309b"
+    }
   }
 }
