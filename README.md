@@ -9,3 +9,5 @@ npm i react-dom@18.2.0<br>
 npm i @expo/webpack-config@^19.0.0<br> 
 
 Rodar: npm run web<br>
+
+https://expo.dev/accounts/paulocastro/settings/github
