@@ -10,4 +10,7 @@ npm i @expo/webpack-config@^19.0.0<br>
 
 Rodar: npm run web<br>
 
-https://expo.dev/accounts/paulocastro/settings/github
+https://expo.dev/accounts/paulocastro/settings/github<br>
+
+Build EAS EXPO<br>
+npm i -g eas-cli<br>
