@@ -14,3 +14,10 @@ https://expo.dev/accounts/paulocastro/settings/github<br>
 
 Build EAS EXPO<br>
 npm i -g eas-cli<br>
+
+Eas login<br>
+
+Log in to EAS with email or username (exit and run eas login for other options)
+√ Email or username ... paullocasttro@gmail.com
+√ Password ... ********
+Logged in
